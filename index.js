@@ -97,6 +97,10 @@ console.log(makeDinner('🍜','🥘','🍙','🥠','🍑'));
 
 console.log('---------------------------------- 9')
 
+//arrow
 
+const makeBeer = function beerFun(qty) {
+    return '🍺'.repeat(qty);
+}
 
 console.log('----------------------------------10')
